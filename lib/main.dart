@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // in the middle of the parent.
         child: Column(
           //TODO: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-          // Column is also a layout widget. It takes a list of children and
+          // Column is also a layout widget. It takes a list of children and andddddddddddddddddddddd
           // arranges them vertically. By default, it sizes itself to fit its
           // children horizontally, and tries to be as tall as its parent.
           //
